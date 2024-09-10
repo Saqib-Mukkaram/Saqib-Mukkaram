@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saqib-Mukkaram
 - 👀 I’m interested in Game Development, App Development, Web Development,
                        Internet Of Things, Linux Server and Much More!.
-- 🌱 I’m currently Working on Flutter, React, .NET, IOS Native
+- 🌱 I’m currently Working on Flutter, .NET, IOS & Android Native
 - 💞️ I’m looking to collaborate on any Project.
 - 📫 How to reach me saqibmukkaram@gmail.com
 
