@@ -5,7 +5,7 @@ My work sits at the intersection of **devices in the field** and **software that
 
 ### 🧠 What I work on
 - Embedded Linux & OpenWrt-based router firmware
-- Cellular modems (QMI, CDC-WDM, carrier quirks, field stability)
+- Cellular modems
 - Device telemetry, monitoring, and remote management
 - Backend systems
 - Infrastructure with **Docker, Linux servers, and automation**
@@ -17,12 +17,12 @@ I’m most comfortable owning problems end-to-end, especially when documentation
 - **Embedded / Systems:** OpenWrt, ROOter, Linux, MTD/flash layouts
 - **Backend:** .NET, Python, REST APIs, Protobuf, C/C++,
 - **Infra:** Docker, Nginx, CI/CD, Linux servers
-- **Frontend / Apps:** Flutter, Web dashboards (when required)
+- **Frontend / Apps:** Flutter, React, Next,
 
 ### 💼 What I’m open to
 - Project-based or contract work
 - Embedded / networking problem-solving
-- Device stability, monitoring, and automation
+- Monitoring and automation
 - Collaboration on technically meaningful projects
 
 ### 📫 Contact
